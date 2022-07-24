@@ -1,2 +1,6 @@
 # Asakin-Multibot-v2.65-Crack
-Cracked version of Asakin Multibot v2.65
+# Instructions
+
+Unzip the file in Releases
+Run the executable
+Leave username field blank
